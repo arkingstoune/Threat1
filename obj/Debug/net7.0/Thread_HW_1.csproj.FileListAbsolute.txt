@@ -1,0 +1,15 @@
+C:\Users\arkin\Desktop\C#PROJECTS\Thread_HW_1\bin\Debug\net7.0\Thread_HW_1.exe
+C:\Users\arkin\Desktop\C#PROJECTS\Thread_HW_1\bin\Debug\net7.0\Thread_HW_1.deps.json
+C:\Users\arkin\Desktop\C#PROJECTS\Thread_HW_1\bin\Debug\net7.0\Thread_HW_1.runtimeconfig.json
+C:\Users\arkin\Desktop\C#PROJECTS\Thread_HW_1\bin\Debug\net7.0\Thread_HW_1.dll
+C:\Users\arkin\Desktop\C#PROJECTS\Thread_HW_1\bin\Debug\net7.0\Thread_HW_1.pdb
+C:\Users\arkin\Desktop\C#PROJECTS\Thread_HW_1\obj\Debug\net7.0\Thread_HW_1.csproj.AssemblyReference.cache
+C:\Users\arkin\Desktop\C#PROJECTS\Thread_HW_1\obj\Debug\net7.0\Thread_HW_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkin\Desktop\C#PROJECTS\Thread_HW_1\obj\Debug\net7.0\Thread_HW_1.AssemblyInfoInputs.cache
+C:\Users\arkin\Desktop\C#PROJECTS\Thread_HW_1\obj\Debug\net7.0\Thread_HW_1.AssemblyInfo.cs
+C:\Users\arkin\Desktop\C#PROJECTS\Thread_HW_1\obj\Debug\net7.0\Thread_HW_1.csproj.CoreCompileInputs.cache
+C:\Users\arkin\Desktop\C#PROJECTS\Thread_HW_1\obj\Debug\net7.0\Thread_HW_1.dll
+C:\Users\arkin\Desktop\C#PROJECTS\Thread_HW_1\obj\Debug\net7.0\refint\Thread_HW_1.dll
+C:\Users\arkin\Desktop\C#PROJECTS\Thread_HW_1\obj\Debug\net7.0\Thread_HW_1.pdb
+C:\Users\arkin\Desktop\C#PROJECTS\Thread_HW_1\obj\Debug\net7.0\Thread_HW_1.genruntimeconfig.cache
+C:\Users\arkin\Desktop\C#PROJECTS\Thread_HW_1\obj\Debug\net7.0\ref\Thread_HW_1.dll
